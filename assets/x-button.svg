@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="posters" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105.74 105.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #33332d;
+      }
+
+      .cls-2 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <g class="cls-2">
+    <path class="cls-1" d="M40.68,52.46L.62,0h21.89l30.56,40.69L83.64,0h21.48l-40.06,52.46,40.68,52.87h-21.69l-31.39-41.1-31.19,41.1H0l40.68-52.87Z"/>
+  </g>
+</svg>
